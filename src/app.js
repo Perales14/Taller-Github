@@ -1,5 +1,5 @@
 
 
 function Clicks() {
-    console.log('Paseme profe, porfa\n esto no cambia XD');
+    console.log('Saludos desde app.js');
 }
